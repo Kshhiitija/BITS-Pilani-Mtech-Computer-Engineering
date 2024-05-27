@@ -1,1 +1,1 @@
-# BITS-Pilani-Mtech-Computer-Engineering
+# BITS-Pilani-Mtech-Software-Engineering
